@@ -16,13 +16,13 @@
 
 // Route::get('/', function(){
 
-//     return "Welcome in laravel My name is Damini";
+//     return "Welcome in laravel My name is Brijesh Kumar Pandey";
 
 // });
 
 // Route::get('/damini', function(){
 
-//     return "<h2>Welcome in laravel My name is Damini</h2>";
+//     return "<h2>Welcome in laravel Brijesh Kumar Pandey</h2>";
 // });
 
 // Route::get('/kiran', function(){
